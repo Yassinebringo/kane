@@ -1,0 +1,9 @@
+# Dependency files
+node_modules/
+
+# Dotenv environment file
+.env
+
+# Other
+.github/
+LICENSE
